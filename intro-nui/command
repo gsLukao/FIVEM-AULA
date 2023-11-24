@@ -1,0 +1,7 @@
+# Esta linha deve ser adicionada ao final do código do script que deseja anunciar via notificaçao
+# success é o informado o tipo de icone na notificaçao ( Icone = Sucesso)
+# "Arma entregue com sucesso" é a mensagem que será anunciada.
+# 8000 é o tempo em segundos que a mensagem será exibida
+
+
+emit('nui:notificacao',"success","Arma entregue com sucesso", 8000 )

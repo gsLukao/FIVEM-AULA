@@ -6,7 +6,6 @@ version '1.0.2'
 
 client_script 'client.js'
 server_script 'server.js'
-shared_script 'shared.js'
 
 ui_page 'ui/index.html'
 
